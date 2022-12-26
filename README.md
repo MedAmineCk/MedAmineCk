@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [medamineck.com](medamineck.com)
 
-- 📝 I regularly write articles on [https://dev.to/MedAmineCk](https://dev.to/MedAmineCk)
-
 - 📫 How to reach me **contact@medamineck.com**
 
 - 📄 Know about my experiences [https://medamineck.com/files/Resume.pdf](https://medamineck.com/files/Resume.pdf)

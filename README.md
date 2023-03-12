@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://media.licdn.com/dms/image/D4E16AQGq3eU4Pg130g/profile-displaybackgroundimage-shrink_350_1400/0/1669418506089?e=1677715200&v=beta&t=_hkEAr11Sgw2V_ApOIqDz2uhogRWZufvj_4y4Peep1k">
+
 <h1 align="center">Hi 👋, I'm MOHAMED-AMINE CHEKROUNI</h1>
 <h3 align="center">A passionate FullStack web developer from Morocco</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
